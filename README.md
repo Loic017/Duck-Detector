@@ -1,6 +1,6 @@
-# Word Reader
+# Over the line: Football ball and line detector
 
-Object detection project to detect letters to form words on a given image. Developed as a practice project.
+Object detection project to whether the ball has crossed the line. Developed as a practice project.
 
 Started: 21/07/2024
 
