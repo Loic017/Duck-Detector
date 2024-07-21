@@ -8,7 +8,7 @@ import stuff as stuff
 
 IMAGE_FOLDER = stuff.IMAGES_FOLDER
 IMAGE_FILE_TYPE = "jpg"
-IMAGE_NUMBER = 1
+IMAGE_NUMBER = 20
 
 box_type_input = input("Enter the type of box you want to select (1: ball, 2: line): ")
 
